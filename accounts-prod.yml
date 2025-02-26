@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to My Bank accounts related local APIs-PROD"
   contactDetails:
     name: "Alby Abraham-PROD"
-    email: "6dede74c2844b4689498fb9fd42189772ece7a4fe06bc9368c601ec5b59514c0da843a04c87cf97ea54f5a3f2954620c"
+    email: "{cipher}6dede74c2844b4689498fb9fd42189772ece7a4fe06bc9368c601ec5b59514c0da843a04c87cf97ea54f5a3f2954620c"
   onCallSupport:
     - (555) 12123-PROD
     - (555) 32333-PROD
