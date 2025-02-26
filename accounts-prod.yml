@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to My Bank accounts related local APIs-PROD"
+  message: "Welcome to My Bank accounts related local APIs-Production"
   contactDetails:
     name: "Alby Abraham-PROD"
     email: "{cipher}6dede74c2844b4689498fb9fd42189772ece7a4fe06bc9368c601ec5b59514c0da843a04c87cf97ea54f5a3f2954620c"
