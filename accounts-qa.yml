@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to My Bank accounts related local APIs-QA"
+  contactDetails:
+    name: "Alby Abraham-QA"
+    email: "alby@gmail.com-QA"
+  onCallSupport:
+    - (555) 12123-QA
+    - (555) 32333-QA

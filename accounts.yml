@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to My Bank accounts related local APIs"
+  contactDetails:
+    name: "Alby Abraham"
+    email: "alby@gmail.com"
+  onCallSupport:
+    - (555) 12123
+    - (555) 32333

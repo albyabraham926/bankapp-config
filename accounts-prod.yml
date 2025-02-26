@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to My Bank accounts related local APIs-PROD"
+  contactDetails:
+    name: "Alby Abraham-PROD"
+    email: "alby@gmail.com-PROD"
+  onCallSupport:
+    - (555) 12123-PROD
+    - (555) 32333-PROD
