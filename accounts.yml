@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "4.0"
 
 accounts:
-  message: "Welcome to My Bank accounts related local APIs"
+  message: "Welcome to My Bank accounts related local APIs- webhook"
   contactDetails:
     name: "Alby Abraham"
     email: "alby@gmail.com"
